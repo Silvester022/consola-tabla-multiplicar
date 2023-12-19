@@ -1,4 +1,15 @@
 
+# Instrucciones importantes
+
+```
+Options:
+      --help     Show help                                             [boolean]
+      --version  Show version number                                   [boolean]
+  -n, --number   Base de la tabla                            [number] [required]
+  -l, --listar   Muestra la tabla en consola          [boolean] [default: false]
+  -h, --hasta    Profundidad de la tabla                     [number] [required]
+```
+
 ## Comandos utilizados
 
 Instalar el paquete
